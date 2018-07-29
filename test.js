@@ -19,4 +19,4 @@ var name2="asd"
 arr.splice(3,0,name,name2)
 console.log(arr.join('__'));
      
-      /* my version 4.0 */
+      /* version 5.0 */

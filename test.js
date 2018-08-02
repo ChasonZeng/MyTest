@@ -20,3 +20,5 @@ arr.splice(3,0,name,name2)
 console.log(arr.join('__'));
      
       /* version 5.0 */
+
+      /* br2:我也做了修改 */

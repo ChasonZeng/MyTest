@@ -21,4 +21,4 @@ console.log(arr.join('__'));
      
       /* version 5.0 */
 
-      /* br1:this my change！ */
+      /* br2:我也做了修改 */
